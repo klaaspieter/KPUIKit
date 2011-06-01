@@ -1,4 +1,4 @@
-KPUIKit is a collection of controllers and associated views that make it easier to handle complex single window applications.
+KPUIKit is a Cappuccino framework that makes it easier to handle complex single window applications.
 
 ### Installation
 
